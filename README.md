@@ -35,5 +35,6 @@ mittels Plots aus der Seaborn Library können die Daten visualisiert werden, um 
 * Trainiere und fitte ein logistisches Regressionsmodell auf das Trainingsset mit der fit() Funktion
 
 **5. Vorhersagen und Auswertung (erwartendes Ergebnis/Output)**
-* Vorhersage der Werte für die Trainingsdaten mit der predict() Funktion, welches auf das zuvor erstellte Regressionsmodell angewendet wird
+* Vorhersage der Werte für die Testdaten mit der predict() Funktion, welches auf das zuvor erstellte Regressionsmodell angewendet wird
+* import classification_report von sklearn.metrics 
 * Klassifizierungsreport für das Modell, um die Perfomance in Bezug auf Precision und Recall Werte zu erhalten 
