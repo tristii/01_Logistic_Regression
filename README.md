@@ -13,7 +13,7 @@ Aufgebaut ist die Übungsaufgabe in jeweils in Beschreibungsabschnitt was expliz
 
 Fallbeispiel: In diesem Projekt werden wir mit Fake-Daten zu Werbung arbeiten, die aufzeigen, ob ein Nutzer auf eine Werbeanzeige auf einer Webseite einer Firma geklickt hat oder nicht. Wir werden versuchen ein Modell zu erstellen, das anhand von Nutzereigenschaften vorhersagt, ob dieser auf die Werbung klicken wird oder nicht.
 
-**1. Librarries**
+**1. Libraries**
 * notwendige Libraries müssen importiert werden (pandas, numpy, matplotlib.pyplot, seaborn) für die Datenverarbeitung und Datenvisualisierung
 
 **2. Rohdaten**
