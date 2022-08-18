@@ -17,7 +17,7 @@ Fallbeispiel: In diesem Projekt werden wir mit Fake-Daten zu Werbung arbeiten, d
 * notwendige Libraries müssen importiert werden (pandas, numpy, matplotlib.pyplot, seaborn) für die Datenverarbeitung und Datenvisualisierung
 
 **2. Rohdaten**
-* Rohdaten einlesen und DataFrame erstellen
+* Rohdaten(advertising.csv) einlesen und DataFrame erstellen
 * Deskriptive Statistiken anzeigen und analysieren mit der info() und describe() Funktion
 
 **3. Explorative Datenanalyse**
